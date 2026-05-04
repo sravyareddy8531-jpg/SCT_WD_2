@@ -1,0 +1,26 @@
+body {
+  font-family: Arial;
+  text-align: center;
+  background: #222;
+  color: white;
+}
+
+.container {
+  margin-top: 100px;
+}
+
+#display {
+  font-size: 40px;
+  margin: 20px;
+}
+
+button {
+  padding: 10px 15px;
+  margin: 5px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+ul {
+  list-style: none;
+}
